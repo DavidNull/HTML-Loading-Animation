@@ -1,5 +1,7 @@
 # 🚀 HTML Loading Animation
 
+## 👀 Preview
+![Loading Animation](https://media.giphy.com/media/xyz123abc/giphy.gif)
 
 ## 📂 Features
 - ✍️ **Typing Animation:** 
